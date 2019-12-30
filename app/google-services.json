@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "981316036713",
+    "firebase_url": "https://dongili-texi781221.firebaseio.com",
+    "project_id": "dongili-texi781221",
+    "storage_bucket": "dongili-texi781221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981316036713:android:a36e2f20fba86021d0daf8",
+        "android_client_info": {
+          "package_name": "com.exemple.vingtsix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981316036713-nr1orjpnl49ti0bctvcmdl1kg4dihts6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAETLu4BQIHe650si-aJmVL-4VTjy8lxcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981316036713-nr1orjpnl49ti0bctvcmdl1kg4dihts6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
